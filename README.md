@@ -67,13 +67,14 @@ A collection of blender and blender game engine resources
 - [Blender addons list](http://blenderaddonlist.blogspot.com/) - Many blender addons (like Mifth tools, hdr2rgbm, ...)
 - [Blender Add-ons Catalog](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts) - Some blender official addons
 
+## BGE Recipies
+- [Isometric Tiles in Blender](http://flarerpg.org/tutorials/isometric_tiles/)
 
 ## Math and Creativity
 *Some works with math and blender*
 - [Sverchok parametric tools](https://github.com/nortikin/sverchok) - Vector work drawing and 3D constructing
+  - [Examples](http://blendersushi.blogspot.com/2014/04/sverchok-embracing-art-of-parametric.html) - Some examples of Sverchok tools
 - [elfnor](http://elfnor.com/) - Art and Math in blender
-- [Examples](http://blendersushi.blogspot.com/2014/04/sverchok-embracing-art-of-parametric.html) - Some examples of Sverchok tools
-
 
 ## Virtual Reality
 *Branches and addons for VR, openHMD, OSVR, VRPN*
@@ -139,7 +140,7 @@ A collection of blender and blender game engine resources
 
 
 ## Resources
-*API, WIKI, Tutorials, 2D and 3D Models*
+*API, WIKI, Blogs, Tutorials, 2D and 3D Models*
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [Blender API](https://www.blender.org/api/) - Blender/BGE Application Programming Interface (Python API)
 - [Blender Manual](https://www.blender.org/manual/) - Blender Reference Manual
@@ -159,6 +160,7 @@ A collection of blender and blender game engine resources
 - [The GPL Answer Thread](https://blenderartists.org/forum/showthread.php?259752-The-GPL-Answer-Thread) - The GPL Answer Thread
 - [Useful threads](https://blenderartists.org/forum/showthread.php?196828-Useful-threads) - Some useful threads in BA forum
 - [Agoose77's resources](http://blenderartists.org/forum/showthread.php?226477-Agoose77-s-resources&p=1913771#post1913771) - Agoose77's resources
+- [Small Blender Things - Customizing Blender with Python and OSL](http://blog.michelanders.nl/) blog by [Michel Anders](http://michelanders.nl/)
 
 
 ## Video tutorials
